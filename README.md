@@ -46,6 +46,11 @@ Applies consistent formatting to Terraform code.
 Applies the changes defined in Terraform files.
 
 
+### VM Created.
+![image](https://github.com/Sebastianavia/VM-modular-Terraform-AZ/assets/71205906/b0dd5fe9-8784-46aa-865f-cf12546c7748)
+
+
+
 
 
 
